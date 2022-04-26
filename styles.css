@@ -1,0 +1,14 @@
+body {
+    background-color:#E2B7FF;
+    border: dashed 5px beige;
+    margin: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 15px;
+}
+
+h1.mainHeader {
+    text-align: center;
+}
+
